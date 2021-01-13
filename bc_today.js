@@ -27,7 +27,7 @@ var thisDay = thisDate.getDay();
 var eventHTML = getEvent(thisDay);
 
 
-//my descriptive comments. The event for October 12, 2018 should sho on the right side, with information// 
+//my descriptive comments. Practicing adding an event The event for October 12, 2018 should sho on the right side, with information// 
 document.getElementById('unionToday').insertAdjacentHTML('beforeEnd', dateHTML + eventHTML);
 
 
