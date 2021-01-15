@@ -3,7 +3,7 @@
 ##**Overview**:
 <br>
 
-This site is to show users more information about Snowboarding Sport 
+This site is to show users more information JAVAscript Practice on pg. 729 from the book
 
 ## **Developer**: Ngoc Doan
 ## **Place:** *Denver, CO*
