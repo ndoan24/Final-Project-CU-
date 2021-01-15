@@ -8,7 +8,7 @@ This site is to show users more information about Snowboarding Sport
 ## **Developer**: Ngoc Doan
 ## **Place:** *Denver, CO*
 ## **Institute: Emily Griffith Technical College
-## **Title**: Snowboarding Project 
+## **Title**: Final Project CU for JavaScript 
 ## **Date: January 14, 2021
 
 ## **Goal**:
