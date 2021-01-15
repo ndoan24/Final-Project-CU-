@@ -27,4 +27,4 @@ Javacript eercise project
 
 See it here: 
 
-[Snowboarding Project ](https://ndoan24.github.io/Final-Project-CU-)
+[Final Project CU ](https://ndoan24.github.io/Final-Project-CU-)
